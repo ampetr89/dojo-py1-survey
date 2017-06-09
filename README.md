@@ -5,7 +5,7 @@ The landing page has a form, which upon submission redirects you to the results 
 
 ## Screenshots
 ### Form entry page
-![Form entry](/doc/index.png?raw=true "index.html" =50%x)
+![Form entry](/doc/index.png?raw=true "index.html")
 
 ### Results page
 ![Form result](/doc/result.png?raw=true "result.html")
